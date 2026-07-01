@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6v0271/i/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 宋敬業等造塔記
+  edition:
+    short: i
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/I/I01/I01n0065.xml
+    old_id: I01n0065
+hash: sha256:366fdba85d2c4344c4a9695dc678d05aa41a341eecc72f62e421577a0b20b5fa

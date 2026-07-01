@@ -1,0 +1,42 @@
+canonical_identifier: bkk:krp/KR6v0271/v1
+canonical_location: https://kanripo.org/bkk/KR6v0271/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 宋敬業等造塔記
+  identifiers:
+    alt_id:
+    - I01n0065
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/I/I01/I01n0065.xml
+    old_id: I01n0065
+  edition:
+    short: bkk
+editions:
+- short: 佛拓
+  label: 佛拓
+  source_xml_id: wit.orig
+- short: I
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0271_000.yaml, hash: 'sha256:366fdba85d2c4344c4a9695dc678d05aa41a341eecc72f62e421577a0b20b5fa'}
+  - {seq: 1, filename: KR6v0271_001.yaml, hash: 'sha256:b5a1855f967306832d9cd6690188e89e24e73397afd66e0b8a6a439a7b08c8c6'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6v0271_001.markers.yaml, hash: 'sha256:de255bdf216aaa260b5e6df8f1e8fe8d244b592d5380b15b73de0ac12366a800'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6v0271_I_001-juan-start
+    span:
+    - body
+    - 0
+    - 296
+  label: 宋敬業等造塔記
+  type: juan
+  level: 1
+hash: sha256:63232e702ebc851601248771dfb4a8584f25833e79c3bf28b77bdcec70ecbdc6
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
