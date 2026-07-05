@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6v0271_000.yaml, hash: 'sha256:366fdba85d2c4344c4a9695dc678d05aa41a341eecc72f62e421577a0b20b5fa'}
-  - {seq: 1, filename: KR6v0271_001.yaml, hash: 'sha256:b5a1855f967306832d9cd6690188e89e24e73397afd66e0b8a6a439a7b08c8c6'}
+  - {seq: 1, filename: KR6v0271_001.yaml, hash: 'sha256:0770348c3847fe9fb34c590ad4069b3828e575ceaae5d2ef13e5c9f66efb124b'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6v0271_001.markers.yaml, hash: 'sha256:de255bdf216aaa260b5e6df8f1e8fe8d244b592d5380b15b73de0ac12366a800'}
+  - {seq: 0, role: markers, filename: assets/KR6v0271_000.markers.yaml, hash: 'sha256:2c02b0ea3c5b83bd603594b152b1017db94fe576135416650721f3e45993bc6a'}
+  - {seq: 1, role: markers, filename: assets/KR6v0271_001.markers.yaml, hash: 'sha256:c606fff8fa8410b789aea7f2cd9a1deb0f5cdf2389095b850d7f6dd667942f04'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,7 +37,4 @@ table_of_contents:
   label: 宋敬業等造塔記
   type: juan
   level: 1
-hash: sha256:63232e702ebc851601248771dfb4a8584f25833e79c3bf28b77bdcec70ecbdc6
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:c2802b4eb7af4ec8ba5936b6fb97a78d8147db1d5373c5b1ff271129e88d94ea
